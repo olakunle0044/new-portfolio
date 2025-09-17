@@ -528,7 +528,7 @@ body{
 
   .menu-icon{
     display: block;
-    margin: 20px 20px 0 0;
+    margin: 25px 20px 0 0;
   }
 
   .left-section{
@@ -598,6 +598,13 @@ body{
     justify-content: center;
     text-align: center;
     width: 100%;
+  }
+
+    #nav{
+    padding-left: 0;
+    width: 300px;
+    height: 350px;
+  
   }
   .navbar a{
     padding-left: 50px;
@@ -693,11 +700,9 @@ body{
   transform: translateY(5px);
 }
 
-.navbar{
-  width: 550px;
-}
 
 }
+
 
 
 
