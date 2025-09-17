@@ -596,7 +596,13 @@ body{
   .navbar{
     align-items: center;
     justify-content: center;
-    width: 450px;
+    text-align: center;
+    width: 100%;
+  }
+  .navbar a{
+    padding-left: 50px;
+    text-align: center;
+    align-items: center;
   }
 
   .hero p{
@@ -692,6 +698,7 @@ body{
 }
 
 }
+
 
 
 
