@@ -3,8 +3,9 @@ nav.style.maxHeight = "0px";
 
 function toggleMenu(){
   if(nav.style.maxHeight == "0px"){
-    nav.style.maxHeight = "300px";
+    nav.style.maxHeight = "100vh";
   }else{
     nav.style.maxHeight = "0px";
   }
+
 }
