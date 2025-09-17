@@ -594,10 +594,10 @@ body{
   }
 
   .navbar{
+    display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    width: 100%;
   }
 
     #nav{
@@ -607,7 +607,7 @@ body{
   
   }
   .navbar a{
-    padding-left: 50px;
+    padding-left: 30px;
     text-align: center;
     align-items: center;
   }
@@ -702,6 +702,7 @@ body{
 
 
 }
+
 
 
 
